@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =5
+let g:netrw_dirhist_5='/Users/zeniuseducation/prototypes/download-soal-web/dev/mock-up-web/zen-pdf'
+let g:netrw_dirhist_4='/Users/zeniuseducation/prototypes/download-soal-web/dev/mock-up-web/zen-pdf/download-soal'
+let g:netrw_dirhist_3='/Users/zeniuseducation/prototypes/download-soal-web/dev/mock-up-web/zen-pdf/download-soal/css'
+let g:netrw_dirhist_2='/Users/zeniuseducation/prototypes/download-soal-web/dev/mock-up-web/zen-pdf/download-soal'
+let g:netrw_dirhist_1='/Users/zeniuseducation/prototypes/download-soal-web/dev/mock-up-web/zen-pdf'
+let g:netrw_dirhist_0='/Users/zeniuseducation/prototypes/download-soal-web/dev/mock-up-web/zen-pdf/css'
+let g:netrw_dirhist_9='/Users/zeniuseducation/prototypes/download-soal-web/dev/mock-up-web/zen-pdf'
+let g:netrw_dirhist_8='/Users/zeniuseducation/prototypes/download-soal-web/dev/mock-up-web/zen-pdf/css'
+let g:netrw_dirhist_7='/Users/zeniuseducation/prototypes/download-soal-web/dev/mock-up-web'
+let g:netrw_dirhist_6='/Users/zeniuseducation/prototypes/download-soal-web/dev/mock-up-web/zen-pdf/download-soal/css'
